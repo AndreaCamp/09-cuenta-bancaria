@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(55, 55, 161);
+}
+
+h1{
+    font-size: 35px;
+}
+
+h2{
+    font-size: 30px;
+
+}
+
+h3{
+    font-size: 25px;
+}
+
+.date{
+    font-size: 15px;
+    color: grey;
+}
+
+.in{
+    color: rgb(13, 177, 13);
+}
+
+.out{
+    color: rgb(153, 10, 10);
+}
